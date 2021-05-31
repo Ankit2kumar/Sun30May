@@ -1,0 +1,22 @@
+[
+	{
+		"productName": "Milk",
+		"productPrice": 5,
+		"_id": "sktwi1mhvkpb1yt91",
+		"createdAt": "2021-05-30T10:41:12.084Z",
+		"url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.5xFZQ2uWOdVMJeAx6pHM6AHaFa%26pid%3DApi&f=1"
+	},
+	{
+		"productName": "Bread",
+		"productPrice": 7,
+		"_id": "sktwi1mhvkpb1z0dj",
+		"createdAt": "2021-05-30T10:41:21.320Z",
+		"url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.fYXNud17eBtMHhw9cvGaLQHaE8%26pid%3DApi&f=1"
+	},
+	{
+		"ProductName": "",
+		"url": "",
+		"_id": "sktwi1mhvkpb5hb9k",
+		"createdAt": "2021-05-30T12:19:34.088Z"
+	}
+]
